@@ -1,0 +1,367 @@
+* {
+    transition: 150ms ease-in-out;
+}
+
+p, html, body {
+    padding: 0;
+    margin: 0;
+}
+
+a, img, div, p {
+    -webkit-touch-callout: none;
+}
+
+.body, html {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.OnlineBox {
+    font-family: TTCommons,Roboto,Open Sans,sans-serif;
+    font-size: 3.75vw;
+    font-weight: 500;
+    border-radius: 0 5vw 5vw 0;
+    position: absolute;
+    top: 3.75vw;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #b56dff;
+    color: #fff;
+    padding: 1.5vw 2.25vw 1.5vw 1.5vw
+}
+
+.MenuButtons {
+    font-family: "TTCommons";
+    background: linear-gradient(90deg,#50c878,#00a550);
+    box-shadow: 0 .5vw 6vw 0 rgba(0,0,0,.25),0 0 .5vw 0 rgba(0,0,0,.08);
+    height: 21.25vw;
+    margin: 7.5vw 4vw 20vw;
+    border-radius: 2.5vw;
+    display: flex
+}
+
+.ClckBut {
+	height: 64vw;
+	position: absolute;
+	left: 0vw;
+	bottom: 0vw;
+}
+
+.BalText {
+	opacity: 0.5;
+}
+
+.MButton {
+	font-family: "TTCommons";
+   	background-color: blue;
+    box-shadow: 0 .5vw 6vw 0 rgba(0,0,0,.25),0 0 .5vw 0 rgba(0,0,0,.08);
+    /*margin: 7.5vw 4vw 20vw; */
+    border-radius: 2.5vw;
+    display: inline; 
+    width: 5vw;
+    height: 5vw;
+
+}
+
+.MenuButtons .MenuButtons__button {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #000;
+    font-size: 4vw
+}
+
+.MenuButtons .MenuButtons__button .MenuButtons__icon {
+    height: 6vw;
+    width: 6vw
+}
+
+.OnlineBox {
+    font-family: TTCommons,Roboto,Open Sans,sans-serif;
+    font-size: 3.75vw;
+    font-weight: 500;
+    border-radius: 0 5vw 5vw 0;
+    position: absolute;
+    top: 3.75vw;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #b56dff;
+    color: #fff;
+    padding: 1.5vw 2.25vw 1.5vw 1.5vw
+}
+
+.btn {
+    text-decoration: none;
+    border: none;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.butt {
+
+}
+
+.body {
+    background: linear-gradient(90deg, #fe9965, #ff6661);
+}
+
+
+/* div.Icon--24 {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+.buttons_custom.Icon--24 {
+    width: 78px !important;
+    height: 54px !important;
+}
+.buttons_custom.Icon--24>svg {
+    width: 42px !important;
+    height: 44px !important;
+} */
+
+.title {
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin-top:  55px;
+    margin-bottom: 0px;
+
+    text-align: center;
+    color: #00000;
+}
+.title > a {
+    color: #ffffff;
+    /* text-decoration: unset; */
+}
+
+.title, .kr--title > a {
+    font-family: TTCommons,Roboto,Open Sans,sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.subtitle {
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin-top: 5px;
+    margin-bottom: 0px;
+
+    text-align: center;
+    color: #00000;
+    opacity: 0.5;
+}
+.subtitle > a {
+    color: #ffffff;
+    /* text-decoration: unset; */
+}
+
+.subtitle, .kr--subtitle > a {
+    font-family: TTCommons,Roboto,Open Sans,sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.transferSubtitle {
+    padding-left: 5px;
+    padding-right: 10px;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    text-align: center;
+    color: #00000;
+    opacity: 0.5;
+}
+.transferSubtitle > a {
+    color: #ffffff;
+    /* text-decoration: unset; */
+}
+
+.transferSubtitle, .kr--transferSubtitle > a {
+    font-family: TTCommons,Roboto,Open Sans,sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.essubtitle {
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin-top: 5px;
+    margin-bottom: 0px;
+
+    text-align: center;
+    color: #00000;
+}
+.essubtitle > a {
+    color: #ffffff;
+    /* text-decoration: unset; */
+}
+
+.essubtitle, .kr--essubtitle > a {
+    font-family: TTCommons,Roboto,Open Sans,sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@1,700&display=swap');
+
+.specialBalanceTitle {
+
+	position: absolute;
+	top: 7vh;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    text-align: center;
+    color: #00000;
+    opacity: 0.5;
+}
+.specialBalanceTitle > a {
+    color: #ffffff;
+    /* text-decoration: unset; */
+}
+
+.specialBalanceTitle, .kr--specialBalanceTitle > a {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.text {
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin-top: 0px;
+    margin-bottom: 30px;
+
+    text-align: center;
+    color: #000000;
+}
+.text > a {
+    color: #000000;
+    /* text-decoration: unset; */
+}
+
+.text, .text > a {
+    font-family: TTCommons,Roboto,Open Sans,sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.menuElement1 {
+    /*padding-left: 10px;
+    padding-right: 10px;*/
+    padding: auto;
+
+    margin-top: 30px;
+    margin-bottom: 0px;
+
+    background: linear-gradient(90deg, #66ba1e, #acf96b);
+    box-shadow: 15px 17px 24px 0px #78c71f;
+    height: 23.25vw;
+    width: 23.25vw;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 7vw;
+    margin-left: 7.5vw;
+    position: relative;
+}
+.menuElement2 {
+    /*padding-left: 10px;
+    padding-right: 10px;*/
+    padding: auto;
+
+    margin-top: 30px;
+    margin-bottom: 0px;
+
+     background: linear-gradient(80deg, #00bfff, #6495ed);
+     box-shadow: 0px 17px 24px 0px #2dacf6;
+    height: 23.25vw;
+    width: 23.25vw;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 7vw;
+    margin-left: 7.5vw;
+    position: relative;
+}
+.menuElement3 {
+    /*padding-left: 10px;
+    padding-right: 10px;*/
+    padding: auto;
+
+    margin-top: 30px;
+    margin-bottom: 0px;
+
+    background: linear-gradient(60deg, #6abf1c, #c7ff37);
+     box-shadow: -11px 17px 24px 0px #78c71f;
+    height: 23.25vw;
+    width: 23.25vw;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 7vw;
+    margin-left: 7.5vw;
+    position: relative;
+}
+
+.menuButtonElement {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+.menuBonusButton {
+	position: absolute;
+	left: 4vw;
+	top: 3vh;
+	border-radius: 5px;
+	background-color: #1faee9;
+	border: none;
+	font-family: 'Comfortaa', cursive;
+	color: white;
+	 box-shadow: 0px 0px 17px 4px #1faee9;
+}
+
+.shopBackgroundPanel {
+	width: 95vw;
+	height: 70vw;
+	margin: 2.5vw;
+	background-color: black;
+	opacity: 0.1;
+	border-radius: 5px;
+}
+.shopTitle {
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin-top:  5vw;
+    margin-bottom: 0px;
+
+    text-align: center;
+    color: #00000;
+}
+.shopTitle > a {
+    color: #ffffff;
+    /* text-decoration: unset; */
+}
+
+.shopTitle, .kr--shopTitle > a {
+    font-family: TTCommons,Roboto,Open Sans,sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+}
