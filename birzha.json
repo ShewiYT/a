@@ -1,0 +1,980 @@
+{
+	"1": {
+		"name": "Павел",
+		"photo": "https://sun2.dataix-kz-akkol.userapi.com/yQnOMesyQAkiNfnGZtKuOa_YZLk5hyDUiRuMHA/hkwMfvBPsqU.jpg?ava=1",
+		"coins": 0.23039956478873386,
+		"summ": "1"
+	},
+	"8738257": {
+		"summ": 10,
+		"name": "Андрей",
+		"photo": "https://sun9-4.userapi.com/c850224/v850224004/c13a6/uzx74ZwUDsE.jpg?ava=1",
+		"coins": 0.5838000000000007
+	},
+	"43316899": {
+		"summ": 10,
+		"name": "Макс",
+		"photo": "https://sun1-96.userapi.com/c625517/v625517899/44a9a/lPHt31_VhPg.jpg?ava=1",
+		"coins": 3.532160000000002
+	},
+	"112560767": {
+		"summ": 10,
+		"name": "Сергей",
+		"photo": "https://sun9-29.userapi.com/c631427/v631427767/5a4d/GHnm83k1f2M.jpg?ava=1",
+		"coins": 0.3717100000000022
+	},
+	"140933159": {
+		"summ": 10,
+		"name": "Никита",
+		"photo": "https://sun1.ufanet.userapi.com/7FuSAvUsjwdmXQcUclf_XF61xESkettpZWpAfg/Dv1f4smNIak.jpg?ava=1",
+		"coins": 0.04870000000000022
+	},
+	"160767774": {
+		"summ": 10,
+		"name": "Руслан",
+		"photo": "https://sun2.tele2-nn.userapi.com/c857136/v857136393/15720a/o-ArtWcBq1w.jpg?ava=1",
+		"coins": 0.13740000000000008
+	},
+	"161984272": {
+		"summ": 10,
+		"name": "Андрей",
+		"photo": "https://sun1-20.userapi.com/WYg47wlXUDONo61M8rh45Lit4EpuFxZrQUImSQ/fD246w18f38.jpg?ava=1",
+		"coins": 66119.46611980186
+	},
+	"179316060": {
+		"summ": 10,
+		"name": "Вадим",
+		"photo": "https://sun1.48276.userapi.com/LUz-eCiynYCKr-hx5bHjAxhT0Yn1K5dV6ugbqA/UnZPWICl5-0.jpg?ava=1",
+		"coins": 1010.9769900000175
+	},
+	"180640365": {
+		"summ": 10,
+		"name": "Сергей",
+		"photo": "https://sun2.tele2-nn.userapi.com/c852320/v852320723/1edcc8/OdFVec8fhCU.jpg?ava=1",
+		"coins": 1052463.9051291796
+	},
+	"193444147": {
+		"summ": 10,
+		"name": "Макар",
+		"photo": "https://sun3-13.userapi.com/50u04fZpjs1-H-f7CS-iaNmUwSsTYNUJAFoK6w/iJQN6joNXZU.jpg?ava=1",
+		"coins": 26106.6708200002
+	},
+	"198040466": {
+		"summ": 10,
+		"name": "Макс",
+		"photo": "https://sun9-11.userapi.com/c850124/v850124025/1d6a89/hQRzp_bD5Zo.jpg?ava=1",
+		"coins": 1147.1608399999818
+	},
+	"200108352": {
+		"summ": 10,
+		"name": "Андрей",
+		"photo": "https://sun9-46.userapi.com/c824202/v824202246/97e3a/pAAO_7Tjt0E.jpg?ava=1",
+		"coins": 19.045879999999947
+	},
+	"205997928": {
+		"summ": 10,
+		"name": "Максим",
+		"photo": "https://sun1-95.userapi.com/c858032/v858032660/1d3fa5/SmFS54htrNA.jpg?ava=1",
+		"coins": 41.63654999999998
+	},
+	"209684168": {
+		"summ": 10,
+		"name": "Роман",
+		"photo": "https://sun9-26.userapi.com/c856016/v856016057/823be/Ln_df3ME5z4.jpg?ava=1",
+		"coins": 16.22212999999989
+	},
+	"224934829": {
+		"summ": 10,
+		"name": "Жозефина",
+		"photo": "https://sun9-39.userapi.com/c626318/v626318829/59f47/p1TRs_4k9yA.jpg?ava=1",
+		"coins": 25511.185090001487
+	},
+	"262541924": {
+		"summ": 10,
+		"name": "Ростислав",
+		"photo": "https://sun3-13.userapi.com/CHWyE0ybn2qjSRU28BkKWDLBf2AEYx3bim1aCw/qFlZBVrbY1E.jpg?ava=1",
+		"coins": 0.04997000000000025
+	},
+	"263191332": {
+		"summ": 10,
+		"name": "Андрей",
+		"photo": "https://sun1-83.userapi.com/c848636/v848636785/1dbd2f/9xy3yiO5kJo.jpg?ava=1",
+		"coins": 225.98162000000377
+	},
+	"272452645": {
+		"summ": 10,
+		"name": "Сергей",
+		"photo": "https://sun9-17.userapi.com/c850428/v850428745/62469/LbuBlBeipVQ.jpg?ava=1",
+		"coins": 1.6985199999999274
+	},
+	"279786369": {
+		"summ": 10,
+		"name": "Даня",
+		"photo": "https://sun9-33.userapi.com/c206724/v206724225/127aba/sziywT211KQ.jpg?ava=1",
+		"coins": 4.681350000000012
+	},
+	"280629271": {
+		"summ": 10,
+		"name": "Лев",
+		"photo": "https://sun9-21.userapi.com/c855232/v855232665/1e37a8/JAUMb3Wg_sg.jpg?ava=1",
+		"coins": 2432.5992899999706
+	},
+	"286516509": {
+		"summ": 10,
+		"name": "Расул",
+		"photo": "https://vk-api-proxy.xtrafrancyz.net/_/sun1-88.userapi.com/n-ih-egOiz4AyuaOVrL-JHVu1Mn01gKaOjITrg/pAclvi4sVxg.jpg?ava=1",
+		"coins": 58358.82616005572
+	},
+	"289094596": {
+		"summ": 10,
+		"name": "Адель",
+		"photo": "https://sun9-40.userapi.com/c851420/v851420585/1d736f/-0bNbbQLJLw.jpg?ava=1",
+		"coins": 0.08954000000000029
+	},
+	"290230102": {
+		"summ": 10,
+		"name": "Евгений",
+		"photo": "https://sun1-84.userapi.com/VMWibSukeNxp_t8ZWMEcTx_2vquAzFYrLyCqWw/O-PPOXVpwcA.jpg?ava=1",
+		"coins": 52517.35751000061
+	},
+	"298845865": {
+		"summ": 10,
+		"name": "Никита",
+		"photo": "https://sun1-96.userapi.com/W9Aiyu8b298YOwA7j7Ja7nnXR6x3PM2SjjLhrw/S-43BJNxxjs.jpg?ava=1",
+		"coins": 0.11211999999999954
+	},
+	"314577046": {
+		"summ": 10,
+		"name": "Настя",
+		"photo": "https://sun9-10.userapi.com/c857616/v857616256/18f211/ZsAy3YWF6j0.jpg?ava=1",
+		"coins": 0.053869999999969734
+	},
+	"322861790": {
+		"name": "Даниил",
+		"photo": "https://sun2.dataix-kz-akkol.userapi.com/yQnOMesyQAkiNfnGZtKuOa_YZLk5hyDUiRuMHA/hkwMfvBPsqU.jpg?ava=1",
+		"coins": 93534.39406995142,
+		"summ": "1"
+	},
+	"325557898": {
+		"summ": 10,
+		"name": "Арамис",
+		"photo": "https://sun1-99.userapi.com/c857520/v857520403/1be58c/LNHEiP0wT4U.jpg?ava=1",
+		"coins": 0.06473000000000016
+	},
+	"326728657": {
+		"summ": 10,
+		"name": "Александр",
+		"photo": "https://sun1-23.userapi.com/c858332/v858332145/1fcf37/UARfNPHwkXM.jpg?ava=1",
+		"coins": 60240.609080009795
+	},
+	"328468714": {
+		"summ": 10,
+		"name": "Иван",
+		"photo": "https://sun1-17.userapi.com/2Vwcffw3cTfUVplTnE6TQfxK0fvxdHluOpu2kQ/cNMNYl9gbYY.jpg?ava=1",
+		"coins": 0.006399999999999987
+	},
+	"330088293": {
+		"summ": 10,
+		"name": "Александр",
+		"photo": "https://sun1-23.userapi.com/w9HaN48Hq_USCMN0eCLlBb4Bo0wpWTUXsGEZng/nlH9T8VQkP4.jpg?ava=1",
+		"coins": 1.3821700000000086
+	},
+	"331757136": {
+		"summ": 10,
+		"name": "Радик",
+		"photo": "https://sun9-27.userapi.com/K6_0tzj3jy52uJkBCdGWMYA6U7sP0XVQmGlDrw/9nxBHLcrqqg.jpg?ava=1",
+		"coins": 1649974.0779999946
+	},
+	"334405309": {
+		"summ": 10,
+		"name": "Егорхакер",
+		"photo": "https://sun9-51.userapi.com/c845120/v845120674/1cb90d/gCFV8sSGjL0.jpg?ava=1",
+		"coins": 0.00022
+	},
+	"346243799": {
+		"summ": 10,
+		"name": "Vlad",
+		"photo": "https://sun1-90.userapi.com/arVtyUceK40h6ZYSZRGbKPTwbW9fCkgCvdU3Yg/N9xRVfpZFAU.jpg?ava=1",
+		"coins": 0.031609999999999985
+	},
+	"351130036": {
+		"summ": 10,
+		"name": "Роман",
+		"photo": "https://sun2.beltelecom-by-minsk.userapi.com/c857424/v857424085/1e8911/pZaeCZsbu1M.jpg?ava=1",
+		"coins": 0.03650000000000001
+	},
+	"357950645": {
+		"summ": 10,
+		"name": "Вячеслав",
+		"photo": "https://sun3.43222.userapi.com/5RWCsjYF3JZSBl-4cfnk0Z97VH_GXNz9qydE6g/qpoM9d8nA94.jpg?ava=1",
+		"coins": 0.11104999999999994
+	},
+	"358113870": {
+		"summ": 10,
+		"name": "Константин",
+		"photo": "https://sun9-66.userapi.com/c858020/v858020866/18881c/ENi-bQF0iJc.jpg?ava=1",
+		"coins": 4.237299999999992
+	},
+	"359538516": {
+		"summ": 10,
+		"name": "Никита",
+		"photo": "https://sun4-12.userapi.com/c858532/v858532646/24a9a/oKwMcHAibHs.jpg?ava=1",
+		"coins": 4096968.724566851
+	},
+	"360767360": {
+		"summ": 10,
+		"name": "Андрей",
+		"photo": "https://sun9-72.userapi.com/jLc8a5W76-TxvwPQO2rC4VvRuvo2a23zbp90fA/nRiTMzSmpHk.jpg?ava=1",
+		"coins": 0.017689999999999963
+	},
+	"372623148": {
+		"summ": 10,
+		"name": "Даниил",
+		"photo": "https://sun9-13.userapi.com/c845221/v845221874/3555f/HZTSfEdB3Ls.jpg?ava=1",
+		"coins": 0.006500000000000001
+	},
+	"374934722": {
+		"summ": 10,
+		"name": "Денис",
+		"photo": "https://sun1.ufanet.userapi.com/c857224/v857224530/140646/pCBtve99guk.jpg?ava=1",
+		"coins": 0.06124000000000004
+	},
+	"381372355": {
+		"summ": 10,
+		"name": "Артур",
+		"photo": "https://sun9-61.userapi.com/c855416/v855416903/15b0df/KpwUkNDZ-oM.jpg?ava=1",
+		"coins": 3.0489499999999463
+	},
+	"389106692": {
+		"summ": 10,
+		"name": "Алёша",
+		"photo": "https://sun1-88.userapi.com/1ta99_-VlNMBZUMQGdyww_DU-3xUOU5QvlyJ5A/HHannQlwix0.jpg?ava=1",
+		"coins": 5552.884629999837
+	},
+	"389340187": {
+		"summ": 10,
+		"name": "Dmitry",
+		"photo": "https://sun1-88.userapi.com/ShvIwAW77bIkBE_I_7zXyaeAW4xN3AhRCUlu7w/sz0B0BsCqvE.jpg?ava=1",
+		"coins": 0.00006
+	},
+	"390422529": {
+		"summ": 10,
+		"name": "Сергей",
+		"photo": "https://sun9-65.userapi.com/c857628/v857628522/1ec503/Ergl3QVLKV4.jpg?ava=1",
+		"coins": 82.70956000000055
+	},
+	"395249121": {
+		"summ": 10,
+		"name": "Гоша",
+		"photo": "https://sun9-16.userapi.com/c857324/v857324522/182430/eAvcYPYjQPQ.jpg?ava=1",
+		"coins": 17.087270000000164
+	},
+	"396344124": {
+		"summ": 10,
+		"name": "Макс",
+		"photo": "https://vk.com/images/camera_100.png?ava=1",
+		"coins": 169.1083300000007
+	},
+	"396496411": {
+		"summ": 10,
+		"name": "Эдуард",
+		"photo": "https://sun9-69.userapi.com/c857420/v857420145/1dc86f/r5Dg2Ex7d4U.jpg?ava=1",
+		"coins": 0.00018
+	},
+	"397282695": {
+		"summ": 10,
+		"name": "Nikita",
+		"photo": "https://sun4-15.userapi.com/c854128/v854128511/2090cf/Rt_zZvGudA8.jpg?ava=1",
+		"coins": 0.09180999999999988
+	},
+	"401400280": {
+		"summ": 10,
+		"name": "Виктория",
+		"photo": "https://sun9-65.userapi.com/c857016/v857016628/f9581/1O1Vlt-XGeE.jpg?ava=1",
+		"coins": 0.02201999999999993
+	},
+	"411971818": {
+		"summ": 10,
+		"name": "Алихан",
+		"photo": "https://sun1-86.userapi.com/KAfK6Qb2bZjMGkU1KrEUei-FPle-IV5s7dMZMg/oM8JjR1zP3I.jpg?ava=1",
+		"coins": 312.5908499999996
+	},
+	"418528209": {
+		"summ": 10,
+		"name": "Даниил",
+		"photo": "https://sun1-96.userapi.com/VTBkxWGlbQ2OuEp6tEujT-I-680_EKPA1OdTUA/ArMvSUtgQU4.jpg?ava=1",
+		"coins": 0.5015300000000004
+	},
+	"423900271": {
+		"summ": 10,
+		"name": "Никита",
+		"photo": "https://vk.com/images/camera_100.png?ava=1",
+		"coins": 58408.00244000491
+	},
+	"427863231": {
+		"summ": 10,
+		"name": "Лилия",
+		"photo": "https://sun9-18.userapi.com/c206820/v206820932/59722/UIkclkUn16k.jpg?ava=1",
+		"coins": 15354.380179999878
+	},
+	"432089860": {
+		"summ": 10,
+		"name": "Иван",
+		"photo": "https://sun1-22.userapi.com/E30F7dJYNNqTuCNkGpZcg137bbLx8Q2OPGCmKw/8YGkCoZUQmQ.jpg?ava=1",
+		"coins": 25.73768999999985
+	},
+	"435371938": {
+		"summ": 10,
+		"name": "Женя",
+		"photo": "https://sun1-24.userapi.com/c854320/v854320416/1a3603/-O7EmnzFU9g.jpg?ava=1",
+		"coins": 127.22147000000032
+	},
+	"436102073": {
+		"summ": 10,
+		"name": "Кирилл",
+		"photo": "https://sun3-11.userapi.com/r9oMNKsoyM_aTbrnutkMyxJwHN-dsWyAVCT19Q/TfrnHMukbNM.jpg?ava=1",
+		"coins": 0.07630000000000005
+	},
+	"436838471": {
+		"summ": 10,
+		"name": "Влад",
+		"photo": "https://sun1-29.userapi.com/c854120/v854120196/1b8c48/CuC0btz0pfI.jpg?ava=1",
+		"coins": 0.08231999999999617
+	},
+	"440434943": {
+		"summ": 10,
+		"name": "Михаил",
+		"photo": "https://sun9-25.userapi.com/5necmIAVMN36tC3pONK088aUtzFyBXqbXkVcog/f0XqxUEVUuQ.jpg?ava=1",
+		"coins": 15350165.222013768
+	},
+	"445021373": {
+		"summ": 10,
+		"name": "Илья",
+		"photo": "https://sun9-46.userapi.com/c850736/v850736958/1b0a4/juhx_fYoGos.jpg?ava=1",
+		"coins": 613.0310399999961
+	},
+	"448071644": {
+		"summ": 10,
+		"name": "Никита",
+		"photo": "https://sun9-50.userapi.com/AFfQMGJG3v0Nvu0WnkWnb3ocpBonqpKZw95EbQ/mUI3TN4Z7es.jpg?ava=1",
+		"coins": 0.04201000000000026
+	},
+	"448743664": {
+		"summ": 10,
+		"name": "Макс",
+		"photo": "https://sun1-86.userapi.com/5yw0Ap3TiUbtWjHKFnyMRCLr074tnzYV1V3Yeg/GCNn0wd2Yu0.jpg?ava=1",
+		"coins": 348140.9493499458
+	},
+	"458215796": {
+		"summ": 10,
+		"name": "Даниил",
+		"photo": "https://sun2-3.userapi.com/c855732/v855732048/9b6d6/yMEsCKBcHHc.jpg?ava=1",
+		"coins": 0.08043000000000004
+	},
+	"458352338": {
+		"summ": 10,
+		"name": "Альберт",
+		"photo": "https://sun9-65.userapi.com/c855732/v855732678/1bbdd8/d947N62eiPM.jpg?ava=1",
+		"coins": 121.85754999999948
+	},
+	"463396877": {
+		"summ": 10,
+		"name": "Artur",
+		"photo": "https://sun1-47.userapi.com/BO0yFa8aGP6BBtDjgYiUJ4rBeFPSxX7v17rrKg/AvmVE3d0bwU.jpg?ava=1",
+		"coins": 0.2312400000000004
+	},
+	"463406970": {
+		"summ": 10,
+		"name": "Никита",
+		"photo": "https://sun9-34.userapi.com/c857020/v857020011/19ba68/POfDHHHv72A.jpg?ava=1",
+		"coins": 0.0033000000000000004
+	},
+	"463596486": {
+		"summ": 10,
+		"name": "Саша",
+		"photo": "https://sun3.43222.userapi.com/c857436/v857436171/1ec1f8/9rmOpUawSH8.jpg?ava=1",
+		"coins": 1751.6952799999742
+	},
+	"464932485": {
+		"name": "Илья",
+		"photo": "https://sun1-20.userapi.com/UoolR3FBgTDDtAWN5rg0cMw5nnNFl7Sjw8qfnw/CJgAOaTClN8.jpg?ava=1",
+		"coins": 288469.01101000863,
+		"summ": "1"
+	},
+	"465411452": {
+		"summ": 10,
+		"name": "Арсений",
+		"photo": "https://sun1-98.userapi.com/FB0nVE1yY-ztC7AHeb7gFxcBWO_SyS5qMtK1Sg/jtXFrC3RC1A.jpg?ava=1",
+		"coins": 0.03236000000000002
+	},
+	"468904959": {
+		"summ": 10,
+		"name": "Степан",
+		"photo": "https://sun3-12.userapi.com/3MpXj_O4ZyT39nOzOuAHKG65A9S-6WHYxxRpHw/aUK4sm2tC74.jpg?ava=1",
+		"coins": 0.058650000000000146
+	},
+	"468966066": {
+		"summ": 10,
+		"name": "Вадик",
+		"photo": "https://sun9-19.userapi.com/c824701/v824701753/df4e6/ou5E6FRHYFY.jpg?ava=1",
+		"coins": 97592.11659992348
+	},
+	"469138001": {
+		"summ": 10,
+		"name": "Альберт",
+		"photo": "https://sun1-18.userapi.com/Ka-AEoEhGNs5HeD0-TZAAA30WgUUD8CA73n_pw/c1TpKzS7Qzo.jpg?ava=1",
+		"coins": 0.8847099999999922
+	},
+	"470179506": {
+		"summ": 10,
+		"name": "Денис",
+		"photo": "https://sun9-49.userapi.com/SDAMSEdFwT7zzZWolwzCCijiyBBRxQLvokPuGQ/FGmrfX_TAtk.jpg?ava=1",
+		"coins": 518125.3376877174
+	},
+	"472591579": {
+		"summ": 10,
+		"name": "Данил",
+		"photo": "https://sun1-17.userapi.com/Os4k7tLe5hCorLMZE6MvH2brcBpXqcTrQhP8OQ/V36kzZ27XtA.jpg?ava=1",
+		"coins": 227626.62262998905
+	},
+	"473723795": {
+		"summ": 10,
+		"name": "Андрей",
+		"photo": "https://sun9-24.userapi.com/c855236/v855236881/1d1292/GisWfdo-63s.jpg?ava=1",
+		"coins": 0.07275999999999982
+	},
+	"477296384": {
+		"summ": 10,
+		"name": "Игорь",
+		"photo": "https://sun9-72.userapi.com/c855532/v855532894/2362a8/kwpwqyr5bf0.jpg?ava=1",
+		"coins": 0.057610000000000064
+	},
+	"477399588": {
+		"summ": 10,
+		"name": "Михаил",
+		"photo": "https://sun1.48276.userapi.com/c855220/v855220805/1b7e59/UT7NZgHdkMA.jpg?ava=1",
+		"coins": 0.06165000000000009
+	},
+	"478493249": {
+		"summ": 10,
+		"name": "Игорь",
+		"photo": "https://sun3.43222.userapi.com/5SlHv3RffqKhAlmfs5GlbK4lELB1mtKOSS6bAQ/xukFFCaReWk.jpg?ava=1",
+		"coins": 249.05413999999783
+	},
+	"479152505": {
+		"summ": 10,
+		"name": "Лена",
+		"photo": "https://sun1-95.userapi.com/4eLi2JTWHL6c4pvZPRXN4fO4QllZ-PM_0kYF-g/MR1yPncXsO8.jpg?ava=1",
+		"coins": 430.0882099999712
+	},
+	"479769437": {
+		"summ": 10,
+		"name": "Максим",
+		"photo": "https://sun1-28.userapi.com/c854420/v854420210/2211b7/RyxETgFL7hc.jpg?ava=1",
+		"coins": 1838.9447599999376
+	},
+	"479915692": {
+		"summ": 10,
+		"name": "Никита",
+		"photo": "https://sun3-10.userapi.com/gQOeVWuL6BnOmAG8kwfn0IAomhWfK-nOmyGiDA/qyevxs_Rs8U.jpg?ava=1",
+		"coins": 24621.404079999935
+	},
+	"485714647": {
+		"summ": 10,
+		"name": "Maksverteyko",
+		"photo": "https://sun7-8.userapi.com/tFmZBUcZXH3qMCgS2S6riIsnSAVHUMCFaWIxmQ/EPRVY-7lgXM.jpg?ava=1",
+		"coins": 11359.885260000576
+	},
+	"486468033": {
+		"summ": 10,
+		"name": "Миша",
+		"photo": "https://sun1-86.userapi.com/c857036/v857036701/12547b/Ryj0geT38Rk.jpg?ava=1",
+		"coins": 54050.60410993434
+	},
+	"490740218": {
+		"summ": 10,
+		"name": "Maksim-Play-Hd",
+		"photo": "https://sun9-53.userapi.com/c857720/v857720361/11e32/Bc8gGPoYMTo.jpg?ava=1",
+		"coins": 90792.93911433825
+	},
+	"494895430": {
+		"summ": 10,
+		"name": "Миша",
+		"photo": "https://sun1-16.userapi.com/I4jUfTlCfIwpQrbpzdLkPU7GbpVpqAN6SWpS_Q/_HnxrPxBO_o.jpg?ava=1",
+		"coins": 25.99990999999993
+	},
+	"499730002": {
+		"summ": 10,
+		"name": "Александр",
+		"photo": "https://sun1-83.userapi.com/IezGJpm6c0o_TltndbGZsm4Cd4EGiAQOxXdCVQ/qTJ4Xy5DFrE.jpg?ava=1",
+		"coins": 50.714880000000925
+	},
+	"501035174": {
+		"summ": 10,
+		"name": "Иван",
+		"photo": "https://sun1-17.userapi.com/aUb3SJZSYwCupyR52l9OHPOpYWovWKRIgQXRUQ/vaFUiTpg9-U.jpg?ava=1",
+		"coins": 31026.17775000122
+	},
+	"502261175": {
+		"summ": 10,
+		"name": "Dj",
+		"photo": "https://sun9-46.userapi.com/5AusLZkXIIu6G97EjjPiiRST0RnKMSA-huVCqg/9-AgtJA8Qlo.jpg?ava=1",
+		"coins": 28688.151079999236
+	},
+	"502331761": {
+		"summ": 10,
+		"name": "Андрей",
+		"photo": "https://sun1-18.userapi.com/c206728/v206728265/11d080/gWfvN2n96dM.jpg?ava=1",
+		"coins": 0.01779000000000018
+	},
+	"502442457": {
+		"summ": 10,
+		"name": "Саша",
+		"photo": "https://sun1-30.userapi.com/c858532/v858532732/19dfda/qZJR8R8MTVo.jpg?ava=1",
+		"coins": 33.942219999999985
+	},
+	"503380157": {
+		"summ": 10,
+		"name": "Никита",
+		"photo": "https://sun1-99.userapi.com/c858132/v858132974/1e994a/lm_x-iK-5Xo.jpg?ava=1",
+		"coins": 11499.795509999438
+	},
+	"504221440": {
+		"summ": 10,
+		"name": "Ридаль",
+		"photo": "https://sun9-53.userapi.com/c855724/v855724497/2268a8/KEdLx4rBquw.jpg?ava=1",
+		"coins": 0.07442999999999979
+	},
+	"504446768": {
+		"summ": 10,
+		"name": "Даник",
+		"photo": "https://sun3.dataix-kz-akkol.userapi.com/c858532/v858532001/e42a8/euR1JeMXY2c.jpg?ava=1",
+		"coins": 0.041300000000000024
+	},
+	"504592354": {
+		"summ": 10,
+		"name": "Демид",
+		"photo": "https://sun9-36.userapi.com/c844720/v844720772/13e509/hIiEluTd-o4.jpg?ava=1",
+		"coins": 7.929439999999975
+	},
+	"509117005": {
+		"summ": 10,
+		"name": "Матвей",
+		"photo": "https://sun9-6.userapi.com/c851136/v851136160/168854/sUEYgoksi5o.jpg?ava=1",
+		"coins": 0.46285000000000165
+	},
+	"516361009": {
+		"summ": 10,
+		"name": "Андрей",
+		"photo": "https://sun9-68.userapi.com/IEKqaRxSPUVzjSS_Pm2ANSZc99fKX5RZ8wp_vw/v6S2dkEo17w.jpg?ava=1",
+		"coins": 4199.8806199999635
+	},
+	"517383817": {
+		"summ": 10,
+		"name": "Никита",
+		"photo": "https://sun1-85.userapi.com/oo2OW74mkeUlGYRTetaLLBVOBjA8_VduQpQdYg/9YqmqfqYscU.jpg?ava=1",
+		"coins": 33052.82230999978
+	},
+	"517982242": {
+		"summ": 10,
+		"name": "Андрей",
+		"photo": "https://vk.com/images/camera_100.png?ava=1",
+		"coins": 1.7913700000000023
+	},
+	"522318072": {
+		"summ": 10,
+		"name": "Виталий",
+		"photo": "https://sun9-2.userapi.com/v3l6uVMmxwa1HiiTjE3BokfLKM3YkCqtuScqyA/ct6df96m148.jpg?ava=1",
+		"coins": 146.7449300000003
+	},
+	"525043285": {
+		"summ": 10,
+		"name": "Матвей",
+		"photo": "https://sun2.tele2-nn.userapi.com/Tan61xD8D43k3pex1HHpodTWomL5M2pD798Knw/Ubpy2x6UKX0.jpg?ava=1",
+		"coins": 0.02802000000000019
+	},
+	"526865254": {
+		"summ": 10,
+		"name": "Артур",
+		"photo": "https://sun1-27.userapi.com/7YQThbmpj1BK5dnqt50ss7M_Ff5mrdsq6p9phA/i80se6kynHg.jpg?ava=1",
+		"coins": 0.00001
+	},
+	"528027050": {
+		"summ": 10,
+		"name": "Костя",
+		"photo": "https://sun3-12.userapi.com/c858432/v858432697/194c06/TGu_4cyDofo.jpg?ava=1",
+		"coins": 11962.384980000106
+	},
+	"531110238": {
+		"summ": 10,
+		"name": "Виталий",
+		"photo": "https://sun7-9.userapi.com/N-xb0ngTkLygFlHZNBohXQ9hPdTPatpILkS9xA/aklFKl5eH7w.jpg?ava=1",
+		"coins": 161.95665999999545
+	},
+	"531976101": {
+		"summ": 10,
+		"name": "Даня",
+		"photo": "https://sun1-85.userapi.com/wZWNH-6iSqdyC_fdLPPb1CV0AbIRE7-fTVs1IA/38-pt-41OO4.jpg?ava=1",
+		"coins": 0.03117999999999998
+	},
+	"532062920": {
+		"summ": 10,
+		"name": "Лилия",
+		"photo": "https://sun1-30.userapi.com/WYUeh19UbNcwi7vLX--1UKGskypkMicjqPMGXw/iiXD4YWYR_0.jpg?ava=1",
+		"coins": 4470.590969978582
+	},
+	"534406546": {
+		"summ": 10,
+		"name": "Maksim",
+		"photo": "https://sun9-18.userapi.com/zgTHs1eS0f1nIY3oz57WIFxjXNc-AlSZe8ZMCA/4W7LzDiwL1Q.jpg?ava=1",
+		"coins": 0.17515000000000033
+	},
+	"535303035": {
+		"summ": 10,
+		"name": "Даниэль",
+		"photo": "https://sun1-93.userapi.com/cfXzkIzbc_s6BG8haZc1dklMUCFTkeVBH7iPWA/9xYC_flwxgk.jpg?ava=1",
+		"coins": 153.82617000000062
+	},
+	"539027300": {
+		"summ": 10,
+		"name": "Абылайхан",
+		"photo": "https://sun9-8.userapi.com/c857428/v857428132/1d5b4f/DwhuTgX_ABc.jpg?ava=1",
+		"coins": 0.10344999999999997
+	},
+	"539177927": {
+		"summ": 10,
+		"name": "Зарабатываю",
+		"photo": "https://sun9-50.userapi.com/c206716/v206716936/5b031/XkBpk9axV9c.jpg?ava=1",
+		"coins": 0.05384000000000014
+	},
+	"539185565": {
+		"summ": 10,
+		"name": "Lion",
+		"photo": "https://sun1.tele2-nn.userapi.com/c846121/v846121488/1e58fc/GGrpxJ6oA-E.jpg?ava=1",
+		"coins": 0.02441000000000001
+	},
+	"539201929": {
+		"summ": 10,
+		"name": "Кирилл",
+		"photo": "https://sun9-62.userapi.com/c852032/v852032302/1a08a1/_F-eA1vneNI.jpg?ava=1",
+		"coins": 8000669.686952866
+	},
+	"539701803": {
+		"summ": 10,
+		"name": "Daria",
+		"photo": "https://sun1-99.userapi.com/vbeTYNysCy6tynCyzVDTSkxEd3gXMaMTVlvMbg/1uDebyvX5zU.jpg?ava=1",
+		"coins": 9348054.268353567
+	},
+	"539868716": {
+		"summ": 10,
+		"name": "Свят",
+		"photo": "https://sun9-22.userapi.com/c857024/v857024578/117007/1NqbG82zL6Y.jpg?ava=1",
+		"coins": 65027.76823000374
+	},
+	"540027584": {
+		"summ": 10,
+		"name": "Alisa",
+		"photo": "https://sun1-93.userapi.com/sdx0yqSQck8h8rdHJ5lki9zll0yHIBW0QBIpvg/ij4kBIpe0bU.jpg?ava=1",
+		"coins": 447945674.8697578
+	},
+	"540884583": {
+		"summ": 10,
+		"name": "Сергей",
+		"photo": "https://vk.com/images/camera_100.png?ava=1",
+		"coins": 0.04932000000000007
+	},
+	"541281851": {
+		"summ": 10,
+		"name": "Рома",
+		"photo": "https://sun9-17.userapi.com/c858124/v858124552/1fbdfd/fQ_4wSVJTKQ.jpg?ava=1",
+		"coins": 76218.42191000066
+	},
+	"541289515": {
+		"name": "Макар",
+		"photo": "https://sun1-20.userapi.com/Bzu8dcex5CIyhqtOOrOMSdP6iMeHkxK7dvHp-A/qEjmfgCxOtk.jpg?ava=1",
+		"coins": 10.038669999999945,
+		"summ": "1"
+	},
+	"541402724": {
+		"summ": 10,
+		"name": "Александр",
+		"photo": "https://sun6-14.userapi.com/0pNbffMYmZMfZDLCPB6V7E_22sSWHwnyi3ARcQ/7whmiM1Te_c.jpg?ava=1",
+		"coins": 0.03473999999999893
+	},
+	"542070334": {
+		"summ": 10,
+		"name": "Влад",
+		"photo": "https://sun9-29.userapi.com/c858036/v858036654/1dba91/krNIdpluFi0.jpg?ava=1",
+		"coins": 37803.90444999811
+	},
+	"544115693": {
+		"summ": 10,
+		"name": "Саша",
+		"photo": "https://sun9-49.userapi.com/c858028/v858028924/18c7cb/RPTeQrjPo04.jpg?ava=1",
+		"coins": 34195.32235002287
+	},
+	"544984962": {
+		"summ": 10,
+		"name": "Ника",
+		"photo": "https://sun1-18.userapi.com/c855720/v855720076/23bddf/8i4IwjaXWZg.jpg?ava=1",
+		"coins": 1003.9207499999977
+	},
+	"546133590": {
+		"summ": 10,
+		"name": "Александр",
+		"photo": "https://sun9-8.userapi.com/c855524/v855524405/226c80/NHJUmhUYM10.jpg?ava=1",
+		"coins": 3460.3342499999394
+	},
+	"547636788": {
+		"summ": 10,
+		"name": "Дмитрий",
+		"photo": "https://sun1-86.userapi.com/c857620/v857620872/11820f/dTu_bNC3_eY.jpg?ava=1",
+		"coins": 0.02388999999999661
+	},
+	"549545574": {
+		"summ": 10,
+		"name": "Сергей",
+		"photo": "https://sun1-14.userapi.com/c857120/v857120741/85f25/hxJYGz6-tc4.jpg?ava=1",
+		"coins": 314.45935999999716
+	},
+	"549805199": {
+		"summ": 10,
+		"name": "Любовь",
+		"photo": "https://sun9-28.userapi.com/c854020/v854020426/83947/e_FfEIJ_7dE.jpg?ava=1",
+		"coins": 0.07232000000000016
+	},
+	"551012257": {
+		"summ": 10,
+		"name": "Повстанец",
+		"photo": "https://sun9-6.userapi.com/7oZKFdRnMK6CYW4MZeq4h5XHMcDdOER88yAQtQ/e2k_LOmuLTc.jpg?ava=1",
+		"coins": 0.21179000000000045
+	},
+	"552904643": {
+		"summ": 10,
+		"name": "Влад",
+		"photo": "https://sun7-7.userapi.com/c855032/v855032165/22098e/sAgXaE1Q0gM.jpg?ava=1",
+		"coins": 0.03655000000000012
+	},
+	"554731773": {
+		"summ": 10,
+		"name": "Мася",
+		"photo": "https://sun9-44.userapi.com/c857324/v857324473/192fb3/-dEdtOlFM8w.jpg?ava=1",
+		"coins": 29.842119999999962
+	},
+	"555082475": {
+		"summ": 10,
+		"name": "Боря",
+		"photo": "https://sun9-72.userapi.com/c855432/v855432216/f4e76/o2Sz-81wjrw.jpg?ava=1",
+		"coins": 0.6751499995589256
+	},
+	"555436164": {
+		"summ": 10,
+		"name": "Игорь",
+		"photo": "https://sun9-4.userapi.com/c855732/v855732424/1c8b3c/6ztIOB9o-4s.jpg?ava=1",
+		"coins": 0.012279999999999744
+	},
+	"555619672": {
+		"summ": 10,
+		"name": "Геннадий",
+		"photo": "https://sun4-12.userapi.com/CPz0vvEd-xx2ypLGIpPs9FQ3ic0Iu1D8t1pUKA/Ta06RhOIbio.jpg?ava=1",
+		"coins": 640.5773399999979
+	},
+	"557609342": {
+		"summ": 10,
+		"name": "Владимир",
+		"photo": "https://sun1-47.userapi.com/H-KSkGUDY2RdOQhKbX0eZxcJNbRFCeH1Kt2bQg/6LfRGlSeV1w.jpg?ava=1",
+		"coins": 2048192.0448901718
+	},
+	"558722669": {
+		"summ": 10,
+		"name": "Левых",
+		"photo": "https://sun9-65.userapi.com/c850416/v850416986/1b376a/HEMHq46bwyI.jpg?ava=1",
+		"coins": 18.61238999999997
+	},
+	"559795270": {
+		"summ": 10,
+		"name": "Никита",
+		"photo": "https://sun3.43222.userapi.com/tJJv-x3OFc2Mw5r4I2kbK6QFKsV031AyhURC2g/_izRZdnkrao.jpg?ava=1",
+		"coins": 0.027300000000000012
+	},
+	"559916351": {
+		"summ": 10,
+		"name": "Ксения",
+		"photo": "https://sun9-19.userapi.com/c855624/v855624954/219245/HJKABfc_DEk.jpg?ava=1",
+		"coins": 0.06761000000000007
+	},
+	"560260229": {
+		"summ": 10,
+		"name": "Vitaliy",
+		"photo": "https://sun9-70.userapi.com/c851020/v851020121/1a7688/eKCu7YK-jnY.jpg?ava=1",
+		"coins": 37.032600000000635
+	},
+	"560515696": {
+		"summ": 10,
+		"name": "Влад",
+		"photo": "https://sun9-57.userapi.com/c858224/v858224737/1f6500/jgCiopxyOTA.jpg?ava=1",
+		"coins": 0.05259000000000015
+	},
+	"560930408": {
+		"summ": 10,
+		"name": "Артём",
+		"photo": "https://sun4-16.userapi.com/c857320/v857320788/149696/HLuqcLx1TGI.jpg?ava=1",
+		"coins": 0.2652800000000011
+	},
+	"564768738": {
+		"summ": 10,
+		"name": "Данила",
+		"photo": "https://sun3-13.userapi.com/J-eKQsE0vzx1VUEbwfDIEIiwkXivTQO7mLT2Rg/i_kAZ45Ulmk.jpg?ava=1",
+		"coins": 0.06669999999999995
+	},
+	"565390469": {
+		"summ": 10,
+		"name": "Егор",
+		"photo": "https://sun3.ufanet.userapi.com/c855628/v855628933/215a0b/n6dU_ifU9y4.jpg?ava=1",
+		"coins": 0.05961000000000006
+	},
+	"565753072": {
+		"summ": 10,
+		"name": "Семён",
+		"photo": "https://sun1-23.userapi.com/zO2jQBZml9i1IITm21xHdT4kAsCA57_Qzsc_lw/EFXy3pE2Keg.jpg?ava=1",
+		"coins": 0.04038000000000011
+	},
+	"569149128": {
+		"summ": 10,
+		"name": "Danchak",
+		"photo": "https://sun6-13.userapi.com/8PWAMrne1iKR-dDIKiy3o8AkDyWwh9eEHIHijg/JQ638vFlaQc.jpg?ava=1",
+		"coins": 251.70580999999942
+	},
+	"569641369": {
+		"summ": 10,
+		"name": "Миха",
+		"photo": "https://sun1-47.userapi.com/lXkpD8yfg26Wjc22NnpaIT6xzu_tFqBVSFvSEA/T9NYQS849hA.jpg?ava=1",
+		"coins": 1.265470000000002
+	},
+	"572597830": {
+		"summ": 10,
+		"name": "Кирилл",
+		"photo": "https://sun1.beeline-kz.userapi.com/tw0WYh7w7PtnxkOqFA7EnwRw6h8JwX1xy4jJJw/1Se177vQYVE.jpg?ava=1",
+		"coins": 4303.041699999964
+	},
+	"572964015": {
+		"summ": 10,
+		"name": "Кирилл",
+		"photo": "https://sun9-30.userapi.com/c857020/v857020292/17ff62/K-Phs-5HaWA.jpg?ava=1",
+		"coins": 0.0027500000000000063
+	},
+	"573004595": {
+		"summ": 10,
+		"name": "Елена",
+		"photo": "https://sun9-26.userapi.com/1rRNhL0NbfSfzVkK8zjo-YLvcFtTKsJXRxseLQ/95Iu7CbLt8w.jpg?ava=1",
+		"coins": 496885.1217198881
+	},
+	"574242253": {
+		"summ": 10,
+		"name": "Григорий",
+		"photo": "https://sun1-21.userapi.com/K8w3OMfzPKqbv29fPIRq5F242W27ZnV5UwgENQ/M8GoOjkddaY.jpg?ava=1",
+		"coins": 14.928449999999817
+	},
+	"575535686": {
+		"summ": 10,
+		"name": "Саня",
+		"photo": "https://sun1-99.userapi.com/jRkSBy-I8XHKb1uWYJ4lPuyYXyl-r4keUq0ayQ/xqDhVmmtKYk.jpg?ava=1",
+		"coins": 8.463309999999963
+	},
+	"575846522": {
+		"summ": 10,
+		"name": "Sasha",
+		"photo": "https://sun2-3.userapi.com/4TtZGX3f0mynmWL5RvMQzn7n6ffOSmQz3EANBw/5O6HNjXJ8ZU.jpg?ava=1",
+		"coins": 0.03272000000000019
+	},
+	"576022422": {
+		"summ": 10,
+		"name": "Тамара",
+		"photo": "https://sun1-88.userapi.com/EoUZ4pqxWhkx_86uxC6dKWNwtDWbNzThkFgieA/WkZwUSeMCUE.jpg?ava=1",
+		"coins": 166.08699
+	},
+	"578174045": {
+		"summ": 10,
+		"name": "Михаил",
+		"photo": "https://sun9-45.userapi.com/c206628/v206628890/5d5fd/uSMNETdUe5U.jpg?ava=1",
+		"coins": 0.048140000000000044
+	},
+	"580510761": {
+		"summ": 10,
+		"name": "Cranzi",
+		"photo": "https://sun7-7.userapi.com/lV6QqOAlGkX2Oh5Ed08nWJj3HpiAccTW2yUbEQ/cJ_45zGAVMY.jpg?ava=1",
+		"coins": 0.10411999999999999
+	},
+	"581257147": {
+		"summ": 10,
+		"name": "Данзан",
+		"photo": "https://sun1-47.userapi.com/WVPkrbA2hk56y5aoXCjcQEVxnaUZMgbsyqAP3g/pOZZ8LHWKSM.jpg?ava=1",
+		"coins": 26688.350269999937
+	},
+	"583018585": {
+		"summ": 10,
+		"name": "Михаил",
+		"photo": "https://sun1-16.userapi.com/F0Vz_c-yZ-TTE9wQJZkpLydbrxFmDgVgs8a8WA/NLi-rsnVzxU.jpg?ava=1",
+		"coins": 25966.863909999214
+	},
+	"584056639": {
+		"summ": 10,
+		"name": "Денис",
+		"photo": "https://sun9-53.userapi.com/c206616/v206616823/f0917/Vo1RGN3aoGA.jpg?ava=1",
+		"coins": 0.006579999999999978
+	},
+	"586623158": {
+		"summ": 10,
+		"name": "Александр",
+		"photo": "https://sun9-49.userapi.com/c858220/v858220252/1da563/18_sJEKKCYE.jpg?ava=1",
+		"coins": 32.38043999999991
+	},
+	"586845389": {
+		"summ": 10,
+		"name": "Бик",
+		"photo": "https://sun9-16.userapi.com/W4Mucwgj9PREkdbvTNw57VS1XFfFLbU_c1GdRw/4fiWT6NH-xk.jpg?ava=1",
+		"coins": 2745177.9012280283
+	},
+	"588221508": {
+		"summ": 10,
+		"name": "Николай",
+		"photo": "https://vk.com/images/camera_100.png?ava=1",
+		"coins": 642.9906999999992
+	},
+	"589323502": {
+		"summ": 10,
+		"name": "Мак",
+		"photo": "https://sun9-37.userapi.com/c855436/v855436398/21c297/KinKIThWwZo.jpg?ava=1",
+		"coins": 18119.650180109573
+	},
+	"592275231": {
+		"summ": 10,
+		"name": "Дмитрий",
+		"photo": "https://sun2.tele2-nn.userapi.com/i3TVc7q0xWi1C4kGTCPSaru9eL-6We_9lv6fsg/U_Kkg_C0t9g.jpg?ava=1",
+		"coins": 1096.2478399999784
+	},
+	"593567272": {
+		"summ": 10,
+		"name": "Неизвестный",
+		"photo": "https://sun1-98.userapi.com/fl5Nvjwz8gxopEgF1hLYiBL7mY46qhWLZgWnIw/kmujk6fk40I.jpg?ava=1",
+		"coins": 34081.506359857
+	},
+	"595080246": {
+		"summ": 10,
+		"name": "Вова",
+		"photo": "https://vk.com/images/camera_100.png?ava=1",
+		"coins": 2642.8117699999393
+	},
+	"596133198": {
+		"summ": 10,
+		"name": "Артём",
+		"photo": "https://sun9-4.userapi.com/0yAJqLfMYe7ULS-JvecXAcr6mlYLSxcUjUE4Cw/QzwPVbLLmPc.jpg?ava=1",
+		"coins": 15.011769999999485
+	},
+	"597963946": {
+		"summ": 10,
+		"name": "Мама",
+		"photo": "https://sun1-97.userapi.com/SaH6LWw87ngopI-u-5poKgvRUkG8rAd1_CfpWA/4jp74_JHcMs.jpg?ava=1",
+		"coins": 0.016289999999999968
+	}
+}
